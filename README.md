@@ -2,6 +2,8 @@
 
 A beginner-friendly collection of **ready-to-use Claude skills** (prompt templates) that anyone can copy, paste, and start using — no technical knowledge required.
 
+/find-skills
+
 ---
 
 ## 📖 What Are Claude Skills?
